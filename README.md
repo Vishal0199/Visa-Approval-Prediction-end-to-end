@@ -1,1 +1,1 @@
-# Visa-Approval-Prediction-end-to-end
+# Visa-Approval-Prediction-End-to-End
